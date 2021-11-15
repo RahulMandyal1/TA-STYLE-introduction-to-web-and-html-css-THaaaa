@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body{
+    background-color: #333;
+
+}
+h1{
+    font-size:60px;
+    color: #fff;
+}
+
+p{
+    font-size:25px;
+    color: #fff;
+}
