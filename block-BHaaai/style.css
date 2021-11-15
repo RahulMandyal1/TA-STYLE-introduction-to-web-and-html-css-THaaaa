@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+ background-color: #22396A;   
+ color: #fff;
+ font-family: 'Poppins',sans-serif;
+}
+.wrapper{
+    padding: 15px 0px 25px 20px;
+}
+
+h2{
+    color: #31BB66;
+}
+p{
+    font-size: 12px;
+    line-height: 20px;
+}
+ul{
+    list-style: none;
+}
+div{
+    margin-top: 20px;
+}
+.img{
+    width: 100%;
+    display:flex;
+    justify-content: center;
+
+}
+
+h1 {
+    text-align: center;
+}
+img {
+    width: 300px;
+    height: 300px;
+   text-align: center;
+   object-fit: cover;
+}
+/* gmail and address styling goes here  */
+.gmail-address{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.gmail-address p{
+    font-size: 16px;
+   
+}
+
+
+/* connect section goes from here  */
+
+.connect ul{
+    display: flex;
+    width: 400px;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+}
+.connect ul li a {
+  
+    color: red;
+}
